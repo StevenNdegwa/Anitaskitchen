@@ -2,12 +2,9 @@
   background-image: url("../img/backgrounds/landing.jpg");
   text-align: center;
 }
-.breakfast{
-  background-image: url("..img/foodtop/breakfast.jpg");
-}
-.dinner{
-  background-image: url("..img/foodtop/dinner.jpg")
-}
-.lunch{
-  background-image: url("..img/foodtop/lunch.jpg")
+.col-md-3{
+  border: solid black 1px;
+  text-align: center;
+  padding: 100px;
+
 }
