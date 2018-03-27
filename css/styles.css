@@ -12,3 +12,12 @@ body{
   text-align: center;
   font-family: sans-serif;
 }
+#breakfast{
+  background-image: ("img/foodtop/breakfast.jpg")
+}
+#Lunch{
+  background-image: ("img/foodtop/lunch.jpg")
+}
+#Dinner{
+  background-image: ("img/foodtop/dinner.jpg")
+}
